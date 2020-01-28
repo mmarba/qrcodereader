@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeReader", "QRCodeReader\QRCodeReader.csproj", "{24F04094-6E2C-4801-A368-52D89165B65B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeReaderAPI", "QRCodeReaderAPI\QRCodeReaderAPI.csproj", "{44F2D1BE-D017-4A38-8535-645F361CFA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F04094-6E2C-4801-A368-52D89165B65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F04094-6E2C-4801-A368-52D89165B65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F04094-6E2C-4801-A368-52D89165B65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F04094-6E2C-4801-A368-52D89165B65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F2D1BE-D017-4A38-8535-645F361CFA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F2D1BE-D017-4A38-8535-645F361CFA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F2D1BE-D017-4A38-8535-645F361CFA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F2D1BE-D017-4A38-8535-645F361CFA74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB943F0A-5D96-44EF-AE26-B8C55871E5A8}
+	EndGlobalSection
+EndGlobal
