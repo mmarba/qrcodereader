@@ -16,10 +16,7 @@ It is contained in the solution QRCodeReader.sln, which includes two projects:
   
   Dependencies: .Net framework v4.6.1, Newtonsoft.Json v12.0.3, NUnit v3.12.0, Nunit3TestAdapter v3.16.1
   
-  
-  - QRCodeReaderAPI:
-   This is a small .Net Framework console application with a very basic implementation of a REST API service that exposes the
-   functionality of the QRCodeReader API proxy mentioned above.
-   
-   
-    
+- QRCodeReaderAPI:
+  This is a small .Net Framework console application with a very basic implementation of a REST API service that exposes the 
+  functionality of the QRCodeReader API proxy mentioned above.
+ 
